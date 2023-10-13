@@ -1,0 +1,13 @@
+Why is git needed?
+
+When a team works on real-life projects, git helps ensure no code conflicts between the developers. Furthermore, the project requirements change often. So a git manages all the versions. If needed, we can also go back to the original code. The concept of branching allows several projects to run in the same codebase.
+
+Features of gitHub
+
+
+Using github the project managers can collaborate, review and guide the developers regarding any changes. This makes project management easy.
+The github repositories can be made public or private. Thus allowing safety to an organization in case of a project.
+GitHub has a feature of pull requests and issues in which all the developers can stay on the same page and organize.
+All the codes and their documentation are in one place in the same repository. Hence it makes easy code hosting.
+There are some special tools that github uses to identify the vulnerabilities in the code which other softwares do not have. Hence there is safety among the developers from code start till launch.
+Github is available for mobile and desktops. The UI is so user-friendly that it becomes straightforward to get comfortable with and use it.
